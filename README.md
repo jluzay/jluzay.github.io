@@ -1,2 +1,2 @@
-# jluzay.github.io
-Personal website
+# WIP
+Personal static website
